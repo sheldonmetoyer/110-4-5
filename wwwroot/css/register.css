@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(63, 12, 131);
+    text-align: center;
+}
+
+.register-form{
+    border: 5px solid rgba(51, 6, 233, 0.986);
+    padding: 20px 35px;
+}
+
+.error{
+    border: 1px solid red;
+}
+
+.hide{
+    display: none;
+}
